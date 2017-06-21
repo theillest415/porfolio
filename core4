@@ -47,9 +47,9 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>a data item that may take on more than one value during the runtime of a program  </td>
+          <td>name(variable)=In'Spire(value) </td>
+          <td> </td>
           <td>  </td>
         </tr>
 
